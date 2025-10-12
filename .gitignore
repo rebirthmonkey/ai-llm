@@ -15,3 +15,8 @@ venv/
 
 # .env.production.local
 .env.production.local
+
+# python
+__pycache__/
+
+
