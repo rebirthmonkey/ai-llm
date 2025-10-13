@@ -350,6 +350,6 @@ Fine-tuning 是一个通用概念，而其他方法是 Fine-tuning 的变体或�
 
 1. [乘风破浪的PTM：两年来预训练模型的技术进展](https://zhuanlan.zhihu.com/p/254821426)
 2. 《Build a Large Language Model from Scratch》
+
    1. Github [https://github.com/rasbt/LLMs-from-scratch/tree/main](https://github.com/rasbt/LLMs-from-scratch/tree/main)
    2. Youtube [https://www.youtube.com/@SebastianRaschka](https://www.youtube.com/@SebastianRaschka)
-3.
